@@ -39,17 +39,21 @@ This repository contains a comprehensive data analysis and visualization project
 - Provided visual and analytical insights into the factors affecting car performance.
 
 **Example Visualizations**:
-- [Scatterplot of MPG vs Weight](#)
-- [Histogram of MPG](#)
+- [Scatterplot of MPG vs Weight]
+![Rplot2](https://github.com/user-attachments/assets/8ee67378-41c2-4a75-8ef5-867c5a1e4545)
 
-For more details, explore the [code](https://github.com/yourusername/mtcars-data-analysis/blob/main/mtcars_analysis.R) and [documentation](https://github.com/yourusername/mtcars-data-analysis).
+- [Histogram of MPG]
+![Rplot1](https://github.com/user-attachments/assets/5b0ecea9-5c6a-4422-b798-8817a0246d87)
+
+
+For more details, explore the [code](https://github.com/MR-1124/mtcars-data-analysis/blob/main/mtcars_analysis.R)
 
 ---
 
 **Keywords:** R, Data Analysis, Data Visualization, Machine Learning, Shiny, mtcars, PCA, Regression Analysis, Statistical Analysis
 
-Feel free to [open issues](https://github.com/yourusername/mtcars-data-analysis/issues) or [contribute](https://github.com/yourusername/mtcars-data-analysis/pulls) to the project!
+Feel free to [open issues](https://github.com/MR-1124/mtcars-data-analysis/issues) or [contribute](https://github.com/MR-1124/mtcars-data-analysis/pulls) to the project!
 
 ---
 
-**Project Link**: [https://github.com/yourusername/mtcars-data-analysis](https://github.com/yourusername/mtcars-data-analysis)
+**Project Link**: [https://github.com/MR-1124/mtcars-data-analysis](https://github.com/MR-1124/mtcars-data-analysis)
