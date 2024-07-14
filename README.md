@@ -40,9 +40,12 @@ This repository contains a comprehensive data analysis and visualization project
 
 **Example Visualizations**:
 - [Scatterplot of MPG vs Weight]
+
 ![Rplot2](https://github.com/user-attachments/assets/8ee67378-41c2-4a75-8ef5-867c5a1e4545)
 
+
 - [Histogram of MPG]
+
 ![Rplot1](https://github.com/user-attachments/assets/5b0ecea9-5c6a-4422-b798-8817a0246d87)
 
 
